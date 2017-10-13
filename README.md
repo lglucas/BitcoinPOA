@@ -13,7 +13,7 @@ Trata-se de um repositório de conhecimento aberto e em colaboração pública s
 1.2. Blockchain<br>
 1.3. Criptomoedas<br>
 1.4. Fintechs<br>
-1.5. Smart Contracts
+1.5. Smart Contracts<br>
 2. Recomendações
 2.1. Vídeos<br>
 2.2. Artigos<br>
@@ -23,3 +23,9 @@ Trata-se de um repositório de conhecimento aberto e em colaboração pública s
 2.6. Podcast<sbr>
 2.7. Grupos<br>
 3. 
+
+
+-----------
+
+[Introdução ao assunto]
+
